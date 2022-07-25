@@ -8,6 +8,5 @@
 # Links
 
 - Official Forum https://opengamescommunity.com
-- Official Website: https://lepiigortv.com
-- Official Hellgrave website: https://lepiigortv.com/hellgrave
+- Official Hellgrave website: https://opengamescommunity.com/hellgrave
 
