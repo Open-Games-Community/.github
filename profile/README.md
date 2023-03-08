@@ -8,5 +8,5 @@
 # Links
 
 - Official Forum https://opengamescommunity.com
-- Official Hellgrave website: https://opengamescommunity.com/hellgrave
+- Official Hellgrave v6.0 website: https://hellgrave.com
 
