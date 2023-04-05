@@ -8,5 +8,5 @@
 # Links
 
 - Official Forum https://opengamescommunity.com
-- Official Hellgrave v6.0 website: https://hellgrave.com
+- Official Hellgrave v6.0 forum Thread: https://opengamescommunity.com/index.php?resources/categories/hellgrave-tibia.72/
 
