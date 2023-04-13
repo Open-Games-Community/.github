@@ -1,7 +1,14 @@
-# Open Games Community
+## Open Games Community
 
-Welcome to OpenGamesCommunity Github. Here we will improve the websites, server and some other stuff we are developing.
-Do not download any content from Github it may not work properly, please use the official forum to download our stuff.
-https://opengamescommunity.com
+- 🙋‍ Welcome to OpenGamesCommunity Github. 
+- ⚠️ We no loger work on Github, we have moved to Gitlab.
 
-Enjoy.
+# GitLab Link:
+Gitlab: https://gitlab.com/users/opengamescommunity/projects
+
+# Links
+
+- Official Forum https://opengamescommunity.com
+- Official Hellgrave v6.0 forum Thread: https://opengamescommunity.com/index.php?resources/categories/hellgrave-tibia.72/
+- Access to Gitlab to view and download: https://gitlab.com/users/opengamescommunity/projects
+
