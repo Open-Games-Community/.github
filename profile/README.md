@@ -1,8 +1,9 @@
 ## Open Games Community
 
 - 🙋‍ Welcome to OpenGamesCommunity Github. 
-- We no loger work on Github, we have moved to Gitlab.
+- ⚠️ We no loger work on Github, we have moved to Gitlab.
 
+# GitLab Link:
 Gitlab: https://gitlab.com/users/opengamescommunity/projects
 
 # Links
