@@ -7,3 +7,4 @@
 
 - Official Forum https://opengamescommunity.com
 - Official Hellgrave v6.0 forum Thread: https://opengamescommunity.com/index.php?resources/categories/hellgrave-tibia.72/
+- Endless Custom 13x RL Map thread: https://opengamescommunity.com/index.php?resources/13-11-endless-rl-custom-wheel-of-destiny-hazard-system-bosstiary.852/
